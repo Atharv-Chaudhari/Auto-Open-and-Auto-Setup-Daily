@@ -32,12 +32,13 @@ This Repo have Simulation of chrome we can do the same process for other applica
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61587515/211765940-c86fae75-0c76-46ac-8c1b-6299922445ec.png"/>
 </p>
-8)On This step it will ask path to script we can add path or use browse option, along with arguments.
+8) On This step it will ask path to script we can add path or use browse option, along with arguments.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61587515/211766458-5501fa18-9324-4fd4-93c8-d474c885ce95.png"/>
 </p>
 9) Subsequently it will show all details about task, we can click on finish to complete process.
-10) And Done. We have Successfully sheduled task.
+
+11) And Done. We have Successfully sheduled task.
 
 
 
