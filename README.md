@@ -17,9 +17,8 @@ This Repo have Simulation of chrome we can do the same process for other applica
 5) In next step we have to choose triggers according  to requirement,
 ![image](https://user-images.githubusercontent.com/61587515/211765404-4134c4d1-8a88-4c2b-8599-3414d21cf25f.png)
 6) on next it will show start time of task and respective date and recur every day/month/weekly according to your previous choice, click on next
-7) Here we get following options we can choose accoording to our need, 
+7) Here we get following options we can choose accoording to our need, we choose option 'start program' for our script
 ![image](https://user-images.githubusercontent.com/61587515/211765940-c86fae75-0c76-46ac-8c1b-6299922445ec.png)
-we choose to start program for our script
 8)On This step it will ask path to script we can add path or use browse option, along with arguments.
 ![image](https://user-images.githubusercontent.com/61587515/211766458-5501fa18-9324-4fd4-93c8-d474c885ce95.png)
 9) Subsequently it will show all details about task, we can click on finish to complete process.
