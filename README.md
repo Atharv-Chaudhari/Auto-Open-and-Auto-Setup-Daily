@@ -36,3 +36,8 @@ cd "PATH_TO_SCRIPT_FOLDER"
 py -u "start.py"
 timeout /t 10 >nul
 ```
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}
