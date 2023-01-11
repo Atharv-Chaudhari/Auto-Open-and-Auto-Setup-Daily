@@ -6,7 +6,10 @@ This Repo have Simulation of chrome we can do the same process for other applica
 
 
 1) In windows search panel search for "task scheduler" and select application "Task Scheduler", will open window as follows.
-![image](https://user-images.githubusercontent.com/61587515/211763643-9c201136-171f-4aa7-9f92-77801f1de43e.png#center)
+![img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}](https://user-images.githubusercontent.com/61587515/211763643-9c201136-171f-4aa7-9f92-77801f1de43e.png#center)
 2) Right Click on Task Scheduler Library and create new folder to keep our custom startup scripts different from system ones...
 ![image](https://user-images.githubusercontent.com/61587515/211764104-5386dfeb-9734-445f-a13c-0bc750af217d.png)
 ![image](https://user-images.githubusercontent.com/61587515/211764239-edb676cb-22dd-43f7-a977-2d048e6a5234.png)
@@ -36,8 +39,3 @@ cd "PATH_TO_SCRIPT_FOLDER"
 py -u "start.py"
 timeout /t 10 >nul
 ```
-
-img[src*='#center'] { 
-    display: block;
-    margin: auto;
-}
