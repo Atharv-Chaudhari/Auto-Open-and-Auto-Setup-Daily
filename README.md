@@ -9,8 +9,12 @@ This Repo have Simulation of chrome we can do the same process for other applica
   <img src="https://user-images.githubusercontent.com/61587515/211763643-9c201136-171f-4aa7-9f92-77801f1de43e.png"/>
 </p>
 2) Right Click on Task Scheduler Library and create new folder to keep our custom startup scripts different from system ones...
-![image](https://user-images.githubusercontent.com/61587515/211764104-5386dfeb-9734-445f-a13c-0bc750af217d.png)
-![image](https://user-images.githubusercontent.com/61587515/211764239-edb676cb-22dd-43f7-a977-2d048e6a5234.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61587515/211764104-5386dfeb-9734-445f-a13c-0bc750af217d.png"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61587515/211764239-edb676cb-22dd-43f7-a977-2d048e6a5234.png"/>
+</p>
 3) Now in Task Sheduler Library shows our newly created folder right click on it and select 'create basic task'
 ![image](https://user-images.githubusercontent.com/61587515/211764902-cfcb0006-40a1-4469-85b0-728d00c60d81.png)
 4) Will open  up  following  window,  add respective name and click next
