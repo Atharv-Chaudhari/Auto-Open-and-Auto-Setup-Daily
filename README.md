@@ -4,7 +4,7 @@ This Repo have Simulation of chrome we can do the same process for other applica
 
 ## Steps For adding any task in Windows Task Scheduler :-
 
-```
+
 1) In windows search panel search for "task scheduler" and select application "Task Scheduler", will open window as follows.
 ![image](https://user-images.githubusercontent.com/61587515/211763643-9c201136-171f-4aa7-9f92-77801f1de43e.png)
 2) Right Click on Task Scheduler Library and create new folder to keep our custom startup scripts different from system ones...
@@ -24,7 +24,8 @@ we choose to start program for our script
 ![image](https://user-images.githubusercontent.com/61587515/211766458-5501fa18-9324-4fd4-93c8-d474c885ce95.png)
 9) Subsequently it will show all details about task, we can click on finish to complete process.
 10) And Done. We have Successfully sheduled task.
-```
+
+
 
 ### Instead of Windows Task Scheduler we can also use a bat file to make job done but it makes we have run bat file to run all tasks...!!
 
