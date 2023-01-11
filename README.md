@@ -36,11 +36,7 @@ This Repo have Simulation of chrome we can do the same process for other applica
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61587515/211766458-5501fa18-9324-4fd4-93c8-d474c885ce95.png"/>
 </p>
-9) Subsequently it will show all details about task, we can click on finish to complete process.
-
-11) And Done. We have Successfully sheduled task.
-
-
+9) Subsequently it will show all details about task, we can click on finish to complete process and Done. We have Successfully sheduled task.
 
 ### Instead of Windows Task Scheduler we can also use a bat file to make job done but it makes we have run bat file to run all tasks...!!
 
