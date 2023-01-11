@@ -1,1 +1,2 @@
-# Auto-Open-and-Setup-Daily
+# Auto Open Daily Required Applications with Windows Task Scheduler and Set Up them
+### This Repo have Simulation of chrome we can do the same process for other applications also...
